@@ -2,7 +2,7 @@
 
 Fill-in templates for giving Claude meaningful context about you, your work, your home, and your interests. Drop them into Projects so Claude shows up already knowing the relevant background instead of starting every conversation from zero.
 
-These accompany the article [*Personalize your AI aggressively. Follow one rule.*] [https://www.linkedin.com/pulse/personalize-your-ai-aggressively-follow-one-rule-andy-zehr-kznhc] — start there for the why and the how.
+These accompany the article *Personalize your AI aggressively. Follow one rule.* https://www.linkedin.com/pulse/personalize-your-ai-aggressively-follow-one-rule-andy-zehr-kznhc — start there for the why and the how.
 
 ## What's here
 
